@@ -1,8 +1,8 @@
 # Ahmed Khaled Mohamed – Portfolio
 
-Welcome to my personal project portfolio. I am a **Data Scientist**, **Data Analyst**, and **Computer Vision Engineer** with hands-on experience in building end-to-end data-driven solutions. My work spans applied machine learning, statistical analysis, computer vision pipelines, and business intelligence.
+Welcome to my personal project portfolio. I am a **Data Scientist**, **Data Analyst**, and **Machine Learning Engineer** with hands-on experience in building end-to-end data-driven solutions. My work spans applied machine learning, statistical analysis, computer vision pipelines, and business intelligence.
 
-A large portion of my professional Computer Vision and OCR work is **confidential** due to company restrictions; however, the public projects below reflect the breadth of my skills, methodologies, and practical experience across real-world and simulated environments.
+A large portion of my professional Machine Learning and Computer Vision work is **confidential** due to company restrictions; however, the public projects below reflect the breadth of my skills, methodologies, and practical experience across real-world and simulated environments.
 
 ---
 
