@@ -94,8 +94,83 @@ Due to confidentiality constraints, these projects cannot be made public, but th
 These systems significantly contributed to my expertise in **computer vision engineering**, **OCR**, and **real-world AI deployment**.
 
 ---
+## 🧰 Tech Stack
+
+### 🔧 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+
+---
+
+### 🤖 Machine Learning & Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C9E?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4CC9F0?logoColor=white)
+
+---
+
+### 🧠 Large Language Models (LLMs)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?logo=microsoftazure&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-000000?logo=meta&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-FF4E00?logo=alibabacloud&logoColor=white)
+
+**Concepts & Pipelines:**
+- LLM Pipeline Design  
+- Retrieval-Augmented Generation (RAG)  
+- OCR-to-LLM Intelligent Workflows  
+- Prompt Engineering  
+- Embeddings & Vector Search  
+
+---
+
+### 👁️‍🗨️ Computer Vision & OCR
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?logo=yolo&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-5D00A?logo=google&logoColor=white)
+![Azure Cognitive Services](https://img.shields.io/badge/Azure%20Cognitive%20Services-0078D4?logo=microsoftazure&logoColor=white)
+
+**Capabilities:**
+- OCR for Arabic & English  
+- YOLOv5–YOLOv8 Detection (IDs, Addresses, Fields)  
+- Document Intelligence & ID Verification  
+- Super-Resolution (FSRCNN)  
+- CLAHE, Denoising, Sharpening  
+- Contrast & Lighting Normalization  
+- Multi-step Preprocessing Pipelines  
+- Field-Level OCR Extraction with Validation  
+
+---
+
+### 📊 Data Analysis & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-4479A1?logo=microsoftsqlserver&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-B7312C?logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### ☁️ Big Data & Cloud
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?logo=apachehadoop&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white)
 
 ## Contact
 
 Feel free to connect with me for collaboration, research discussions, or professional opportunities.
-ahmedk543khalidu@gmail.com
+Email: ahmedk543khalidu@gmail.com
+Linkedn: https://www.linkedin.com/in/ahmed-elnagar-3a1377202/?skipRedirect=true
