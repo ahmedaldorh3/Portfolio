@@ -169,8 +169,12 @@ These systems significantly contributed to my expertise in **computer vision eng
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white)
 
-## Contact
+##  Contact
 
-Feel free to connect with me for collaboration, research discussions, or professional opportunities.
-### **Email** : ahmedk543khalidu@gmail.com
-### **Linkedin**: https://www.linkedin.com/in/ahmed-elnagar-3a1377202/?skipRedirect=true
+If you are interested in collaboration, research discussions, or professional opportunities, feel free to reach out.
+
+**Email:**  
+[ahmedk543khalidu@gmail.com](mailto:ahmedk543khalidu@gmail.com)
+
+**LinkedIn:**  
+[https://www.linkedin.com/in/ahmed-elnagar-3a1377202/](https://www.linkedin.com/in/ahmed-elnagar-3a1377202/)
