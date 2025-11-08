@@ -172,5 +172,5 @@ These systems significantly contributed to my expertise in **computer vision eng
 ## Contact
 
 Feel free to connect with me for collaboration, research discussions, or professional opportunities.
-Email: ahmedk543khalidu@gmail.com
-Linkedn: https://www.linkedin.com/in/ahmed-elnagar-3a1377202/?skipRedirect=true
+### **Email** : ahmedk543khalidu@gmail.com
+### **Linkedin**: https://www.linkedin.com/in/ahmed-elnagar-3a1377202/?skipRedirect=true
